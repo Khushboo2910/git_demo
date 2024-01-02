@@ -1,2 +1,2 @@
 # git_demo
-this is my second repository
+this is the readme file for git_demo repository
